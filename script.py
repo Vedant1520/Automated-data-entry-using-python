@@ -18,4 +18,4 @@ if args.input_file and args.output_file and args.name:
     print("To check the pages open the given output folder.")
 else:
   print("You can use the below to learn the usage")
-  print("ved.exe -i D:\car\input file\Car.xlsx -o D:\car\output\ -n CAR")
+  print("script.exe -i D:\car\input\Excel_filename.xlsx -o D:\car\output\ -n CAR")
