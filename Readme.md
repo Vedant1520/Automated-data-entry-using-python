@@ -1,4 +1,4 @@
-# Automated-data-entry-using-oython
+# Automated-data-entry-using-python
 *The program is designed to extract data from files and create multiple webpages by filling the data for  each entity.
 
 *The attached two files are source codes for our automated data entry software.
